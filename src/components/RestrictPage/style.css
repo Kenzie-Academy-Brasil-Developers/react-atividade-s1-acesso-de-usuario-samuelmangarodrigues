@@ -1,0 +1,29 @@
+* {
+  font-family: "Oxygen", sans-serif;
+}
+.Btns {
+  background-color: rgba(2, 97, 2, 0.52);
+  font-size: 30px;
+  color: grey;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+.Btns:hover {
+  color: white;
+  border-color: rgb(4, 209, 4);
+  background-color: rgb(4, 209, 4);
+  transition: 0.4s;
+}
+.BtnsExit {
+  background-color: rgb(93, 15, 15);
+  font-size: 30px;
+  color: grey;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+.BtnsExit:hover {
+  background-color: rgb(255, 0, 0);
+  color: white;
+  border-color: red;
+  transition: 0.4s;
+}
